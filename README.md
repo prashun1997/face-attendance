@@ -25,7 +25,7 @@ Later during recognition, when you will feed a new image to the recognizer for r
 
 Applications & Future Scope
 ----------------------------
-The application finds utility in colleges where much time is spent in every class marking the attendace of the student. This could replace the traditional way and would be time efficient. Depth sensing could be added for better recognition of person.
+The application finds utility in colleges where much time is spent in every class marking the attendace of the student. This could replace the traditional way and would be time efficient. Depth sensing could be added for better recognition of person. I created this application in view of my university, people are welcome to modify their code suiting their requirements.
 
 <br><br>
 PS: The application won't work in distinguishing twins..:stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
